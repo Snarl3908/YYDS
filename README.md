@@ -1,5 +1,5 @@
 ## 我的 MihomoPro Fork
-基于 666OS/YYDS，添加：
+基于 [666OS/YYDS](https://github.com/666OS/YYDS)，添加：
 - 俄罗斯节点分组（vk.com, yandex.ru）
 - 自动更新配置日期（GitHub Actions）
 替换 `proxy-providers` 的订阅链接。
