@@ -1,4 +1,10 @@
-## TG 频道: [拿捏🤌](https://t.me/Pinched666)
+## 我的 MihomoPro Fork
+基于 666OS/YYDS，添加：
+- 俄罗斯节点分组（vk.com, yandex.ru）
+- 自动更新配置日期（GitHub Actions）
+替换 `proxy-providers` 的订阅链接。
+
+## TG 频道: [拿捏住了](https://t.me/Pinched666)
 
 > 中文: 禁止任何形式的转载或发布至"中国互联网"平台。
 > English: No reproduction or publication in any form on “Chinese internet” platforms is allowed.
